@@ -1,2 +1,2 @@
-# Tradification
+# trade-repo
 Responsive website
